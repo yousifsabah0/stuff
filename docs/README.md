@@ -8,6 +8,8 @@ I've spent so much time looking for an application where I can manage my tasks, 
 
 That's why I'm starting this project, mainly for myself, but also to gain more experience.
 
+Must say, this project is highly motivated by [Things3](https://culturedcode.com/things/)
+
 ## Getting Started
 
 - [Features](./features.md)
